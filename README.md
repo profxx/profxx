@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="FIRJAN_CASAS.png" align="center" alt="GitHub Readme Stats" />
+ <img src="FIRJAN_CASAS.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
