@@ -1,5 +1,3 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
 ### Hi there, I'm Alexandre Pimentel 👋
 
 <h3> 🤝🏻 Connect with Me </h3>
