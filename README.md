@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandre Pimentel</h1>
-<h3 align="center">Firjan SENAI - Brasil.</h3>
+<h3 align="center">Rio de Janeiro - Brasil</h3>
 
 <br>
 
