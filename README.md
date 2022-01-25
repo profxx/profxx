@@ -80,7 +80,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=profxx&show_icons=true&locale=en&layout=compact"
     alt="adam-pw" /></p>
@@ -92,7 +92,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=profxxw&" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=profxx&" alt="adam-pw" /></p>
 
 <br>
 
