@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently studying the framework Django and other programming languages
 
-- 📫 How to reach me **acpimentel@gmail.com**
+- 📫 How to reach me **https://wa.me/5524992804414** or **acpimentel@gmail.com**
 
 
 <br>
