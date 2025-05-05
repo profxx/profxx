@@ -1,7 +1,7 @@
 
 <h1>Olá, seja bem-vindo(a)! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrepimentelrj/)](https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrepimentelrj/)](https://www.linkedin.com/in/alexandrepimentelrj/)
 
 [![Gmail Badge](https://img.shields.io/badge/-acpimentel@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acpimentel@gmail.com)](mailto:acpimentel@gmail.com)
 
