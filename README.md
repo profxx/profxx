@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrepimentelrj/)](https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)
 
-[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acpimentel@gmail.com)](mailto:acpimentel@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-acpimentel@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acpimentel@gmail.com)](mailto:acpimentel@gmail.com)
 
 
 ## Meu nome é Alexandre
