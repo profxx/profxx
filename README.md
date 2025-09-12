@@ -7,7 +7,7 @@
 
 
 ## Meu nome é Alexandre
-(Java | Spring Boot | React JS | Typescript | Javascript | HTML | CSS ) 🚀
+(Java | Spring Boot | React JS | Laravel | PHP | Javascript | HTML | CSS ) 🚀
 - 👩‍💻 Desenvolvedor de Software
 - 🎓 Graduado em Tecnologia de Sistemas de Computação pela UFF
 
