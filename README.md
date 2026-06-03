@@ -1,10 +1,5 @@
 # Olá, seja bem-vindo(a)! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=profxx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=profxx&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
-</div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandrepimentelrj/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
